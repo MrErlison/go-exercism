@@ -25,15 +25,11 @@ func AnnualBalanceUpdate(balance float64) float64 {
 
 // YearsBeforeDesiredBalance calculates the minimum number of years required to reach the desired balance.
 func YearsBeforeDesiredBalance(balance, targetBalance float64) int {
-	// final = capital * (1 + rate)^period
-	// period = log(final / capital) / log(1 + rate)
-	// return int(math.Log(targetBalance/balance) / math.Log(1+Interest(balance)/100))
-
-	for years := 0; ; years++ {
-		if balance >= targetBalance {
-			return years
-		}
-
-		balance += Interest(balance)
+	years := 0
+	for balance < targetBalance {
+		balance = AnnualBalanceUpdate(balance)
+		years++
 	}
+
+	return years
 }
