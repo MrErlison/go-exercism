@@ -34,4 +34,5 @@
 
 #### Exercises
 1. Two-Fer
-2. Raindrops
+1. Raindrops
+1. Collatz Conjecture
