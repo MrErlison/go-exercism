@@ -30,3 +30,4 @@
 1. Sorting Room (type conversion and type assertion)
 1. The Farm (errors)
 1. Meteorology (stringers)
+1. Expenses (first class function)
