@@ -2,7 +2,7 @@
 
 [Exercism.org]([url](https://exercism.org/tracks/go)https://exercism.org/tracks/go)
 
-
+#### Fundamental
 1. Hello World
 1. Lasagna (basics)
 1. Annalyn's Infiltration (booleans)
@@ -31,3 +31,6 @@
 1. The Farm (errors)
 1. Meteorology (stringers)
 1. Expenses (first class function)
+
+#### Exercises
+1. Two-Fer
