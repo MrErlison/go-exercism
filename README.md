@@ -38,3 +38,4 @@
 1. Collatz Conjecture
 1. Gigasecond
 1. Hamming
+1. Scrabble Score
