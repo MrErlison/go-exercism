@@ -37,3 +37,4 @@
 1. Raindrops
 1. Collatz Conjecture
 1. Gigasecond
+1. Hamming
