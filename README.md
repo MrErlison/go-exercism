@@ -39,3 +39,4 @@
 1. Gigasecond
 1. Hamming
 1. Scrabble Score
+1. Leap
