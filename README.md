@@ -41,3 +41,4 @@
 1. Scrabble Score
 1. Leap
 1. Isogram
+1. Difference of Squares
