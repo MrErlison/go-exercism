@@ -42,3 +42,4 @@
 1. Leap
 1. Isogram
 1. Difference of Squares
+1. Luhn
