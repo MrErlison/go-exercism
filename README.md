@@ -49,3 +49,4 @@
 1. RNA Transcription
 1. Strain (in progress...)
 1. Pangram
+1. Reverse string
