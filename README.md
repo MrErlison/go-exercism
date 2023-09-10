@@ -47,3 +47,5 @@
 1. Space age
 1. Nucleotide count
 1. RNA Transcription
+1. Strain (in progress...)
+1. Pangram
