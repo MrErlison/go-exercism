@@ -45,3 +45,4 @@
 1. Luhn
 1. Resistor color
 1. Space age
+1. Nucleotide count
