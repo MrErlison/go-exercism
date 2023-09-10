@@ -50,3 +50,4 @@
 1. Strain (in progress...)
 1. Pangram
 1. Reverse string
+1. Darts
