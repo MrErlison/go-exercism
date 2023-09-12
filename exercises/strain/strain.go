@@ -3,15 +3,14 @@ package strain
 // Keep returns a new collection containing
 // those elements where the predicate is true.
 func Keep[T any](list []T, f func(T) bool) []T {
-	value := make([]T, 0, len(list))
-
-	for _, item := range list {
-		if !f(item) {
-			continue
+	var result []T = make([]T, 0, len(list))
+	for _, v := range list {
+		if f(v) {
+			result = append(result, v)
 		}
-		value = append(value, item)
 	}
-	return value
+
+	return result
 }
 
 // Discard returns a new collection containing
