@@ -47,7 +47,7 @@
 1. Space age
 1. Nucleotide count
 1. RNA Transcription
-1. Strain (in progress...)
+1. Strain
 1. Pangram
 1. Reverse string
 1. Darts
@@ -55,4 +55,5 @@
 1. Bob
 1. Grains
 1. Roman Numerals
-1. isbn-verifier
+1. ISBN Verifier
+1. Rotational Cipher
