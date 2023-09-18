@@ -57,3 +57,4 @@
 1. Roman Numerals
 1. ISBN Verifier
 1. Rotational Cipher
+1. Resistor Color Duo
