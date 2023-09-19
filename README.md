@@ -60,3 +60,4 @@
 1. Resistor Color Duo
 1. Clock
 1. Triangle
+1. Proverb
