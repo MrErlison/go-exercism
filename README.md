@@ -62,3 +62,4 @@
 1. Triangle
 1. Proverb
 1. Protein Translation
+1. Anagram
