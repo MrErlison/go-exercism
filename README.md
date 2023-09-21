@@ -66,3 +66,4 @@
 1. Word count
 1. Largest Series Product
 1. Nth Prime
+1. Atbash Cipher
