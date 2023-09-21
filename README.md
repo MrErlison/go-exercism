@@ -63,3 +63,4 @@
 1. Proverb
 1. Protein Translation
 1. Anagram
+1. Word count
