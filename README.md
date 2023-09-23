@@ -67,3 +67,5 @@
 1. Largest Series Product
 1. Nth Prime
 1. Atbash Cipher
+1. Simple Cipher
+1. Sieve
