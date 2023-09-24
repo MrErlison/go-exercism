@@ -71,3 +71,4 @@
 1. Sieve
 1. Armstrong Numbers
 1. Phone Number
+1. Prime factors
