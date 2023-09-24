@@ -42,7 +42,5 @@ func Format(phoneNumber string) (string, error) {
 		return "", err
 	}
 
-	l := len(n)
-
-	return fmt.Sprintf("(%s) %s-%s", n[l-10:l-7], n[l-7:l-4], n[l-4:l]), nil
+	return fmt.Sprintf("(%s) %s-%s", n[:3], n[3:6], n[6:]), nil
 }
