@@ -70,3 +70,4 @@
 1. Simple Cipher
 1. Sieve
 1. Armstrong Numbers
+1. Phone Number
