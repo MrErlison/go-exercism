@@ -3,75 +3,79 @@
 [Exercism.org]([url](https://exercism.org/tracks/go)https://exercism.org/tracks/go)
 
 #### Fundamental
-1. Hello World
-1. Lasagna (basics)
-1. Annalyn's Infiltration (booleans)
-1. Weather Forecast (comments)
-1. Cars Assemble (numbers and arithmetic operators)
-1. Welcome To Tech Palace! (strings package and strings)
-1. Party Robot (string formatting and packages)
-1. Vehicle Purchase (conditionals if and comparison)
-1. Blackjack (conditionals switch)
-1. Need For Speed (structs)
-1. Card Tricks (slices and variadic functions)
-1. Bird Watcher (for loops)
-1. Animal Magic (randomness)
-1. Lasagna Master (functions)
-1. Interest is Interesting (floating point numbers)
-1. Booking up for Beauty (time)
-1. Gross Store (maps)
-1. Chessboard (range iteration and type definitions)
-1. Election Day (pointers)
-1. Logs, Logs, Logs! (runes)
-1. Elon's Toys (methods)
-1. Airport Robot (interfaces)
-1. Census (Zero Values)
-1. Parsing Log Files (regular expressions)
-1. Sorting Room (type conversion and type assertion)
-1. The Farm (errors)
-1. Meteorology (stringers)
-1. Expenses (first class function)
+1. [Hello World](https://exercism.org/tracks/go/exercises/hello-world)
+1. [Gopher's Gorgeous Lasagna](https://exercism.org/tracks/go/exercises/lasagna)
+1. [Annalyn's Infiltration - booleans](https://exercism.org/tracks/go/exercises/annalyns-infiltration)
+1. [Weather Forecast - comments](https://exercism.org/tracks/go/exercises/weather-forecast)
+1. [Cars Assemble - numbers and arithmetic operators](https://exercism.org/tracks/go/exercises/cars-assemble)
+1. [Welcome To Tech Palace! - strings package and strings](https://exercism.org/tracks/go/exercises/welcome-to-tech-palace)
+1. [Party Robot - string formatting and packages](https://exercism.org/tracks/go/exercises/party-robot)
+1. [Vehicle Purchase - conditionals if and comparison](https://exercism.org/tracks/go/exercises/vehicle-purchase)
+1. [Blackjack - conditionals switch](https://exercism.org/tracks/go/exercises/blackjack)
+1. [Need For Speed - structs](https://exercism.org/tracks/go/exercises/need-for-speed)
+1. [Card Tricks - slices and variadic functions](https://exercism.org/tracks/go/exercises/card-tricks)
+1. [Bird Watcher - for loops](https://exercism.org/tracks/go/exercises/bird-watcher)
+1. [Animal Magic - randomness](https://exercism.org/tracks/go/exercises/animal-magic)
+1. [Lasagna Master - functions](https://exercism.org/tracks/go/exercises/lasagna-master)
+1. [Interest is Interesting - floating point numbers](https://exercism.org/tracks/go/exercises/interest-is-interesting)
+1. [Booking up for Beauty - time](https://exercism.org/tracks/go/exercises/booking-up-for-beauty)
+1. [Gross Store - maps](https://exercism.org/tracks/go/exercises/gross-store)
+1. [Chessboard - range iteration and type definitions](https://exercism.org/tracks/go/exercises/chessboard)
+1. [Election Day - pointers](https://exercism.org/tracks/go/exercises/election-day)
+1. [Logs, Logs, Logs! - runes](https://exercism.org/tracks/go/exercises/logs-logs-logs)
+1. [Elon's Toys - methods](https://exercism.org/tracks/go/exercises/elons-toys)
+1. [Airport Robot - interfaces](https://exercism.org/tracks/go/exercises/airport-robot)
+1. [Census - Zero Values](https://exercism.org/tracks/go/exercises/census)
+1. [Parsing Log Files - regular expressions](https://exercism.org/tracks/go/exercises/parsing-log-files)
+1. [Sorting Room - type conversion and type assertion](https://exercism.org/tracks/go/exercises/sorting-room)
+1. [The Farm - errors](https://exercism.org/tracks/go/exercises/the-farm)
+1. [Meteorology - stringers](https://exercism.org/tracks/go/exercises/meteorology)
+1. [Expenses -first class function](https://exercism.org/tracks/go/exercises/expenses)
 
 #### Exercises
-1. Two-Fer
-1. Raindrops
-1. Collatz Conjecture
-1. Gigasecond
-1. Hamming
-1. Scrabble Score
-1. Leap
-1. Isogram
-1. Difference of Squares
-1. Luhn
-1. Resistor color
-1. Space age
-1. Nucleotide count
-1. RNA Transcription
-1. Strain
-1. Pangram
-1. Reverse string
-1. Darts
-1. Etl
-1. Bob
-1. Grains
-1. Roman Numerals
-1. ISBN Verifier
-1. Rotational Cipher
-1. Resistor Color Duo
-1. Clock
-1. Triangle
-1. Proverb
-1. Protein Translation
-1. Anagram
-1. Word count
-1. Largest Series Product
-1. Nth Prime
-1. Atbash Cipher
-1. Simple Cipher
-1. Sieve
-1. Armstrong Numbers
-1. Phone Number
-1. Prime factors
-1. Series
-1. Sublist
-1. Acronym
+1. [Two-Fer](https://exercism.org/tracks/go/exercises/two-fer)
+1. [Raindrops](https://exercism.org/tracks/go/exercises/raindrops)
+1. [Collatz Conjecture](https://exercism.org/tracks/go/exercises/collatz-conjecture)
+1. [Gigasecond](https://exercism.org/tracks/go/exercises/gigasecond)
+1. [Hamming](https://exercism.org/tracks/go/exercises/hamming)
+1. [Scrabble Score](https://exercism.org/tracks/go/exercises/scrabble-score)
+1. [Leap](https://exercism.org/tracks/go/exercises/leap)
+1. [Isogram](https://exercism.org/tracks/go/exercises/isogram)
+1. [Difference of Squares](https://exercism.org/tracks/go/exercises/difference-of-squares)
+1. [Luhn](https://exercism.org/tracks/go/exercises/luhn)
+1. [Resistor color](https://exercism.org/tracks/go/exercises/resistor-color)
+1. [Space age](https://exercism.org/tracks/go/exercises/space-age)
+1. [Nucleotide count](https://exercism.org/tracks/go/exercises/nucleotide-count)
+1. [RNA Transcription](https://exercism.org/tracks/go/exercises/rna-transcription)
+1. [Strain](https://exercism.org/tracks/go/exercises/strain)
+1. [Pangram](https://exercism.org/tracks/go/exercises/pangram)
+1. [Reverse string](https://exercism.org/tracks/go/exercises/reverse-string)
+1. [Darts](https://exercism.org/tracks/go/exercises/darts)
+1. [Etl](https://exercism.org/tracks/go/exercises/etl)
+1. [Bob](https://exercism.org/tracks/go/exercises/bob)
+1. [Grains](https://exercism.org/tracks/go/exercises/grains)
+1. [Roman Numerals](https://exercism.org/tracks/go/exercises/roman-numerals)
+1. [ISBN Verifier](https://exercism.org/tracks/go/exercises/isbn-verifier)
+1. [Rotational Cipher](https://exercism.org/tracks/go/exercises/rotational-cipher)
+1. [Resistor Color Duo](https://exercism.org/tracks/go/exercises/resistor-color-duo)
+1. [Clock](https://exercism.org/tracks/go/exercises/clock)
+1. [Triangle](https://exercism.org/tracks/go/exercises/triangle)
+1. [Proverb](https://exercism.org/tracks/go/exercises/proverb)
+1. [Protein Translation](https://exercism.org/tracks/go/exercises/protein-translation)
+1. [Anagram](https://exercism.org/tracks/go/exercises/anagram)
+1. [Word count](https://exercism.org/tracks/go/exercises/word-count)
+1. [Largest Series Product](https://exercism.org/tracks/go/exercises/largest-series-product)
+1. [Nth Prime](https://exercism.org/tracks/go/exercises/nth-prime)
+1. [Atbash Cipher](https://exercism.org/tracks/go/exercises/atbash-cipher)
+1. [Simple Cipher](https://exercism.org/tracks/go/exercises/simple-cipher)
+1. [Sieve](https://exercism.org/tracks/go/exercises/sieve)
+1. [Armstrong Numbers](https://exercism.org/tracks/go/exercises/armstrong-numbers)
+1. [Phone Number](https://exercism.org/tracks/go/exercises/phone-number)
+1. [Prime factors](https://exercism.org/tracks/go/exercises/prime-factors)
+1. [Series](https://exercism.org/tracks/go/exercises/series)
+1. [Sublist](https://exercism.org/tracks/go/exercises/sublist)
+1. [Acronym](https://exercism.org/tracks/go/exercises/acronym)
+1. [List Ops](https://exercism.org/tracks/go/exercises/list-ops)
+1. [Bottle Song](https://exercism.org/tracks/go/exercises/bottle-song)
+1. [Twelve Days](https://exercism.org/tracks/go/exercises/twelve-days)
+1. [Complex Numbers](https://exercism.org/tracks/go/exercises/complex-numbers)
