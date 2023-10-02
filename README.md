@@ -80,3 +80,4 @@
 1. [Twelve Days](exercises/twelve-days)
 1. [Complex Numbers](exercises/complex-numbers)
 1. [Sum of Multiples](exercises/sum-of-multiples/)
+1. [Wordy](exercises/wordy/)
