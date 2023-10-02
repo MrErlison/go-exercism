@@ -81,3 +81,4 @@
 1. [Complex Numbers](exercises/complex-numbers)
 1. [Sum of Multiples](exercises/sum-of-multiples/)
 1. [Wordy](exercises/wordy/)
+1. [Kindergarten Garden](exercises/kindergarten-garden/)
