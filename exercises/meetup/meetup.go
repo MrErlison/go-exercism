@@ -21,12 +21,9 @@ func Day(wSched WeekSchedule, wDay time.Weekday, month time.Month, year int) int
 		countDay = -1
 		month++
 	}
-
-	for {
-		t := time.Date(year, month, int(wSched), 0, 0, 0, 0, time.UTC)
-		if t.Weekday() == wDay {
-			return int(t.Day())
-		}
-		wSched += countDay
+	t := time.Date(year, month, int(wSched), 0, 0, 0, 0, time.UTC)
+	for ; t.Weekday() != wDay; wSched += countDay {
+		t = time.Date(year, month, int(wSched), 0, 0, 0, 0, time.UTC)
 	}
+	return int(t.Day())
 }
