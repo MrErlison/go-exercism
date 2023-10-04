@@ -83,3 +83,4 @@
 1. [Wordy](exercises/wordy/)
 1. [Kindergarten Garden](exercises/kindergarten-garden/)
 1. [Crypto Square](exercises/crypto-square/)
+1. [Meetup](exercises/meetup/)
