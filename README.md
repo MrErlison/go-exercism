@@ -85,3 +85,4 @@
 1. [Crypto Square](exercises/crypto-square/)
 1. [Meetup](exercises/meetup/)
 1. [Custom Set](exercises/custom-set/)
+1. [Start Tournament](exercices/tournament/)
