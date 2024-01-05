@@ -84,3 +84,4 @@
 1. [Kindergarten Garden](exercises/kindergarten-garden/)
 1. [Crypto Square](exercises/crypto-square/)
 1. [Meetup](exercises/meetup/)
+1. [Custom Set](exercises/custom-set/)
